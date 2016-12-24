@@ -1,0 +1,15 @@
+html,body {
+    margin: 0;
+    font-family: "微软雅黑";
+}
+
+.list {
+
+}
+
+.item {
+    line-height: 40px;
+    padding: 5px 10px;
+    border-bottom: 1px solid #dcdcdc;
+    cursor: pointer;
+}
